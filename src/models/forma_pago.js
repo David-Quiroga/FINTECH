@@ -19,7 +19,6 @@ const forma_pago=(sequelize,type)=>{
             allowNull:false
         }
     }, { timestamps:false,
-
     });
 
 }
